@@ -1,0 +1,3 @@
+Solidity Course
+
+Lottery contract
